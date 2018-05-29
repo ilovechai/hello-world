@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: hello.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.886 s - in hello.ApplicationTests
